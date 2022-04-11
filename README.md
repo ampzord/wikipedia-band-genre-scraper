@@ -1,6 +1,6 @@
 # wikipedia-band-genre-scraper
 
-Small python script to retrieve band genres from wikipedia page through a scraper using BeautifulSoup and Pandas libraries.
+Small python script to retrieve band genres from wikipedia pages through a scraper using BeautifulSoup and Pandas libraries.
 
 ## License
 
